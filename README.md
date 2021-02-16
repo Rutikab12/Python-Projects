@@ -13,4 +13,9 @@
 <hr>
 <br>
 <p><b><H1>Password Generator using PyCharm </H1><b>
-In this project, the user has to select the password length and then click on the “Generate Password” button. It will show the generated password below. If the user clicks on the “Copy To Clipboard” button, then it will copy the password automatically.</p>
+ In this project, the user has to select the password length and then click on the “Generate Password” button. It will show the generated password below. If the user clicks on the “Copy To Clipboard” button, then it will copy the password automatically.</p>
+ <br>
+ <hr>
+ <p><b><h1>Notepad GUI using PyCharm </h1></b>
+ This notepad will allow a user to Create New File in txt format, save the file , open the file and also give the exit option. Also I will allow them to use cut,copy,paste option. And Lastly tell about the Notepad.
+ </p>
