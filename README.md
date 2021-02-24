@@ -19,3 +19,8 @@
  <p><b><h1>Notepad GUI using PyCharm </h1></b>
  This notepad will allow a user to Create New File in txt format, save the file , open the file and also give the exit option. Also I will allow them to use cut,copy,paste option. And Lastly tell about the Notepad.
  </p>
+ <br>
+ <hr>
+ <p><b><h1>Handwritten Digit Recognition System</h1></b>
+  This project will allow user to draw the digit on GUI made by using tkinter library. Then the system will identify the digit drawn on th GUI and display it on the right hand side of GUI. To complete the project, i have used mnist dataset of 60000 samples. 
+ </p>
